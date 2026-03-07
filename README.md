@@ -15,7 +15,7 @@ and AI-curious developers who want honest accounts of building with Claude. Not 
 - 💼 SI Partner Enablement at Contentful
 - 🤖 Building with Claude Code since January 2026
 - 🏙️ Based in Boston, MA
-- 🎤 Speaker at EvolveDrupal, Boye-co, Power of MACH
+- 🎤 Speaker at EvolveDrupal, Boye-co, Power of MACH, Vercel webinar
 - 🇺🇦 Originally from Ukraine
 
 ## Latest Field Notes
