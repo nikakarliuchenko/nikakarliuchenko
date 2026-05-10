@@ -18,12 +18,4 @@ and AI-curious developers who want honest accounts of building with Claude. Not 
 - 🎤 Speaker at EvolveDrupal, Boye-co, Power of MACH, Vercel webinar
 - 🇺🇦 Originally from Ukraine
 
-## Latest Field Notes
-
-- [My site was invisible to search engines](https://fieldnotes-ai.com/notes/my-site-was-invisible-to-search-engines)
-- [I spent a day researching SEO instead of shipping code](https://fieldnotes-ai.com/notes/seo-research-before-shipping-code)
-- [Fixing nine things without writing code](https://fieldnotes-ai.com/notes/fixing-nine-things-without-code)
-- [Deploying FieldNotes AI to Vercel](https://fieldnotes-ai.com/notes/deploying-fieldnotes-ai-to-vercel)
-- [Setting up Contentful with Claude Code and MCP](https://fieldnotes-ai.com/notes/setting-up-contentful-with-claude-code-and-mcp)
-
-[🌐 fieldnotes-ai.com](https://fieldnotes-ai.com) · [💼 LinkedIn](https://www.linkedin.com/in/nikakarl) · [🐦 X](https://x.com/nikakarliuchen)
+[🌐 fieldnotes-ai.com](https://fieldnotes-ai.com) · [💼 LinkedIn](https://www.linkedin.com/in/nikakarliuchenko) · [🐦 X](https://x.com/nikakarliuchen)
