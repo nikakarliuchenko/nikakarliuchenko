@@ -18,4 +18,4 @@ and AI-curious developers who want honest accounts of building with Claude. Not 
 - 🎤 Speaker at EvolveDrupal, Boye-co, Power of MACH, Vercel webinar
 - 🇺🇦 Originally from Ukraine
 
-[🌐 fieldnotes-ai.com](https://fieldnotes-ai.com) · [💼 LinkedIn](https://www.linkedin.com/in/nikakarliuchenko) · [🐦 X](https://x.com/nikakarliuchen)
+[🌐 fieldnotes-ai.com](https://fieldnotes-ai.com) · [💼 LinkedIn](https://www.linkedin.com/in/nikakarliuchenko) · [🐦 X](https://x.com/nikaukraine)
